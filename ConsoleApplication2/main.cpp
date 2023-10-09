@@ -14,8 +14,16 @@ int task_9_3();
 int task_9_4();
 int task_9_5();
 
+int task_12_1();
+int task_12_2();
+int task_12_3();
+int task_12_4();
+int task_12_5();
+
 int main()
 {
+	// Если запускать все функции разом, между ставим ( cout << endl; )
+
 		// lab_5.cpp
 	//task_5_1();
 	//task_5_2();
@@ -29,6 +37,13 @@ int main()
 	//task_9_3();
 	//task_9_4();
 	//task_9_5();
+
+		//lab_12.cpp
+	//task_12_1();
+	//task_12_2();
+	//task_12_3();
+	//task_12_4();
+	//task_12_5();
 
 
 
