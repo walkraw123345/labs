@@ -299,4 +299,5 @@ int task_12_4()
 int task_12_5()
 {
     system("pause");
+    return 0;
 }

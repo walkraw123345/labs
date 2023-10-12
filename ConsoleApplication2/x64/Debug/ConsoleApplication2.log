@@ -1,4 +1,7 @@
-﻿  lab_12.cpp
-  main.cpp
-  Создание кода...
+﻿  lab_15.cpp
+C:\Users\89605\source\repos\ConsoleApplication2\ConsoleApplication2\lab_15.cpp(66,17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\89605\source\repos\ConsoleApplication2\ConsoleApplication2\lab_15.cpp(126,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\89605\source\repos\ConsoleApplication2\ConsoleApplication2\lab_15.cpp(131,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\89605\source\repos\ConsoleApplication2\ConsoleApplication2\lab_15.cpp(47): warning C4715: sign: значение возвращается не при всех путях выполнения
+C:\Users\89605\source\repos\ConsoleApplication2\ConsoleApplication2\lab_15.cpp(98): warning C4715: quarter: значение возвращается не при всех путях выполнения
   ConsoleApplication2.vcxproj -> C:\Users\89605\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

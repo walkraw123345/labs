@@ -1,4 +1,5 @@
 //Файл File_Main.cpp
+
 #include <iostream>        // Подключаем библиотеки       
 
 using namespace std;
@@ -20,6 +21,12 @@ int task_12_3();
 int task_12_4();
 int task_12_5();
 
+//int task_15_1();
+//int task_15_2();
+//int task_15_3();
+//int task_15_4();
+//int task_15_5();
+
 int main()
 {
 	// Если запускать все функции разом, между ставим ( cout << endl; )
@@ -40,6 +47,13 @@ int main()
 
 		//lab_12.cpp
 	//task_12_1();
+	//task_12_2();
+	//task_12_3();
+	//task_12_4();
+	//task_12_5();
+
+			//lab_15.cpp
+	//task_15_1();
 	//task_12_2();
 	//task_12_3();
 	//task_12_4();
